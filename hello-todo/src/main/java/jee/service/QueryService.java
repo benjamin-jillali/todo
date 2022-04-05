@@ -10,7 +10,7 @@ import javax.ws.rs.core.SecurityContext;
 
 import jee.entity.Todo;
 import jee.entity.User;
-
+//doesnt want to be put on github :(
 @Stateless
 public class QueryService {
 	@Inject
